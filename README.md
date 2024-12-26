@@ -1,6 +1,6 @@
 -  Hi, I’m Boris
 -  I’m interested in ML
-- 📫 How to reach me: backbor@yandex.ru or TG:@backbor
+- How to reach me: backbor@yandex.ru or TG:@backbor
 
 
 
