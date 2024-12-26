@@ -1,9 +1,8 @@
-- 👋 Hi, I’m Boris
-- 👀 I’m interested in ML
+-  Hi, I’m Boris
+-  I’m interested in ML
+- 📫 How to reach me: backbor@yandex.ru
 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 backbor/backbor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
