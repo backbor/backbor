@@ -2,7 +2,7 @@
 -  I’m interested in ML
 - How to reach me: backbor@yandex.ru or TG:@backbor
 
-## Сертификаты:
+### Сертификаты:
  - Яндекс.Практикум: Специалист по Data Science [RUS](https://github.com/backbor/backbor/blob/main/%D1%81ert/%D0%A1ertificate_RU_Bakalenko_2024-5844-004.pdf)/[EN](https://github.com/backbor/backbor/blob/main/%D1%81ert/%D0%A1ertificate_ENG_Bakalenko_2024-5844-004.pdf)
 
 <!---
